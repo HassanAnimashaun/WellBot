@@ -1,12 +1,7 @@
 <template>
-    <div class="chat-view">
-    </div>
+  <div class="chat-view"></div>
 </template>
 
-<script setup>
-</script>
+<script setup></script>
 
-<style scoped>
-.chat-view {
-}
-</style>
+<style scoped></style>
